@@ -4,13 +4,6 @@
 
 I'm a passionate blockchain developer and smart contract engineer with expertise in building decentralized applications and secure smart contracts. I specialize in blockchain technologies, focusing on creating innovative solutions that leverage the power of decentralized systems.
 
-## 🔭 What I'm Currently Working On
-
-- Developing secure and efficient smart contracts for DeFi protocols
-- Building decentralized applications with enhanced user experiences
-- Researching zero-knowledge proof implementations for privacy-focused solutions
-- Contributing to open-source blockchain projects
-
 ## 🛠️ Tech Stack & Skills
 
 ### Blockchain & Smart Contracts

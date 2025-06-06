@@ -20,6 +20,11 @@ I'm a passionate blockchain developer and smart contract engineer with expertise
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/foundry-v0.2.0-informational)
 ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-blue)
+![wagmi](https://img.shields.io/badge/wagmi-yellow)
+![viem](https://img.shields.io/badge/viem-purple)
+
+
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

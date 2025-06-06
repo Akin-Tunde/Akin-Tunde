@@ -36,20 +36,6 @@ I'm a passionate blockchain developer and smart contract engineer with expertise
 - Layer 2 scaling solutions
 - Cross-chain interoperability protocols
 
-## 👯 I'm Looking to Collaborate On
-
-- Open-source blockchain projects
-- DeFi protocols and applications
-- DAOs and governance systems
-- Web3 infrastructure development
-
-## 🤔 I'm Looking for Help With
-
-- Optimizing gas efficiency in complex smart contracts
-- Implementing secure multi-signature wallet solutions
-- Exploring new consensus mechanisms
-- Building cross-chain bridges
-
 ## 💬 Ask Me About
 
 - Smart contract security and auditing

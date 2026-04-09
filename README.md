@@ -2,7 +2,7 @@
 
 ### Blockchain Developer | Smart Contract Engineer | Full-Stack AI Researcher
 
-I am a results-driven **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on building secure, scalable decentralized applications and autonomous AI systems. My work spans across the **Stacks (Clarity)**, **Ethereum (Solidity)**, and **Farcaster** ecosystems, where I bridge the gap between complex on-chain logic and modern AI-driven user experiences.
+A **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on building secure, scalable decentralized applications and autonomous AI systems. My work spans across the **Stacks (Clarity)**, **Ethereum (Solidity)**, and **Farcaster** ecosystems, where I bridge the gap between complex on-chain logic and modern AI-driven user experiences.
 
 ---
 
@@ -31,7 +31,7 @@ I am a results-driven **Blockchain Developer** and **Smart Contract Engineer** w
 
 #### 🌐 Web3 Social & Infrastructure
 - [**safe-defi-sight**](https://github.com/Akin-Tunde/safe-defi-sight ) — A **Farcaster Mini-app** providing a comprehensive risk analysis dashboard for DeFi users.
-- [**clawdfather-subgraph**](https://github.com/Akin-Tunde/clawdfather-subgraph ) — High-performance indexing for decentralized agent platforms.
+- 
 - [**twin-marketplace**](https://github.com/Akin-Tunde/twin-marketplace ) — A modern marketplace architecture for digital assets.
 
 ---

@@ -1,53 +1,52 @@
 # Hi there 👋, I'm Akin-Tunde
 
-## Blockchain Developer | Smart Contract Engineer | Software Engineer
+### Blockchain Developer | Smart Contract Engineer | Full-Stack AI Researcher
 
-I'm a passionate blockchain developer and smart contract engineer with expertise in building decentralized applications and secure smart contracts. I specialize in blockchain technologies, focusing on creating innovative solutions that leverage the power of decentralized systems.
-
-## 🛠️ Tech Stack & Skills
-
-### Blockchain & Smart Contracts
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/foundry-v0.2.0-informational)
-![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-blue)
-![wagmi](https://img.shields.io/badge/wagmi-yellow)
-![viem](https://img.shields.io/badge/viem-purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-
-## 🌱 I'm Currently Learning
-
-- Advanced ZK-Rollup implementations
-- Solana and Rust-based smart contract development
-- Layer 2 scaling solutions
-- Cross-chain interoperability protocols
-
-## 💬 Ask Me About
-
-- Smart contract security and auditing
-- DeFi protocol design and implementation
-- Tokenomics and mechanism design
-- Blockchain architecture and scalability solutions
-
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
-
-
+I am a results-driven **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on building secure, scalable decentralized applications and autonomous AI systems. My work spans across the **Stacks (Clarity)**, **Ethereum (Solidity)**, and **Farcaster** ecosystems, where I bridge the gap between complex on-chain logic and modern AI-driven user experiences.
 
 ---
 
+### 🛠️ Tech Stack & Expertise
 
+| Category | Tools & Technologies |
+| --- | --- |
+| **Blockchain** | Solidity, Clarity, Rust, Foundry, Hardhat, Ethers.js, Wagmi, Viem |
+| **AI & Agents** | Python, OpenAI SDK, LangChain, AI Agent Frameworks, Subgraphs |
+| **Frontend** | Next.js, React, TypeScript, TailwindCSS, Vite |
+| **Ecosystems** | Stacks (SIP-033), Base, Ethereum, Farcaster (Mini-apps) |
+
+---
+
+### 🏗️ What I Build
+
+#### 💰 DeFi & Smart Contracts
+- [**Bitcoin-Native-DeFi-Lending-Protocol**](https://github.com/Akin-Tunde/Bitcoin-Native-DeFi-Lending-Protocol ) — A sophisticated lending protocol built with **Clarity 4**, utilizing Stacks SIP-033 features for native Bitcoin DeFi.
+- [**presale**](https://github.com/Akin-Tunde/presale ) — A production-ready TypeScript/Web3 implementation for token presales.
+- [**defi-hub**](https://github.com/Akin-Tunde/defi-hub ) — A comprehensive suite of utilities for decentralized finance interactions.
+
+#### 🧠 AI & Autonomous Systems
+- [**AI_Meeting_Scheduler**](https://github.com/Akin-Tunde/AI_Meeting_Scheduler ) — An intelligent scheduling system leveraging Python and AI for seamless coordination.
+- [**ForgeBot**](https://github.com/Akin-Tunde/ForgeBot ) — A specialized TypeScript-based bot for automated on-chain operations.
+- [**poidh-bot**](https://github.com/Akin-Tunde/poidh-bot ) — Advanced bot development focused on real-time event processing.
+
+#### 🌐 Web3 Social & Infrastructure
+- [**safe-defi-sight**](https://github.com/Akin-Tunde/safe-defi-sight ) — A **Farcaster Mini-app** providing a comprehensive risk analysis dashboard for DeFi users.
+- [**clawdfather-subgraph**](https://github.com/Akin-Tunde/clawdfather-subgraph ) — High-performance indexing for decentralized agent platforms.
+- [**twin-marketplace**](https://github.com/Akin-Tunde/twin-marketplace ) — A modern marketplace architecture for digital assets.
+
+---
+
+### 📊 Stats & Contributions
+
+![Akin-Tunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akin-Tunde&show_icons=true&theme=transparent )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akin-Tunde&layout=compact&theme=transparent )
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn**: [Akin-Tunde](https://www.linkedin.com/in/akin-tunde/ )
+- **Twitter**: [@AkinTunde](https://twitter.com/AkinTunde )
+- **Telegram**: [@AkinTunde](https://t.me/AkinTunde )
+
+---
+*"Building the decentralized future, one block and one agent at a time."*

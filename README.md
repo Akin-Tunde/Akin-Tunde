@@ -41,5 +41,4 @@ A **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on 
 
 ---
 
----
 *"Building the decentralized future, one block and one agent at a time."*

@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Akin-Tunde
 
 ### Blockchain Developer | Smart Contract Engineer | Full-Stack AI Researcher
 

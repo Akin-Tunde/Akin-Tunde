@@ -42,10 +42,5 @@ A **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on 
 
 ---
 
-### 📫 How to Reach Me
-- **LinkedIn**: [Akin-Tunde](https://www.linkedin.com/in/akin-tunde/ )
-- **Twitter**: [@AkinTunde](https://twitter.com/AkinTunde )
-- **Telegram**: [@AkinTunde](https://t.me/AkinTunde )
-
 ---
 *"Building the decentralized future, one block and one agent at a time."*

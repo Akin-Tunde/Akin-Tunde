@@ -30,7 +30,6 @@ A **Blockchain Developer** and **Smart Contract Engineer** with a deep focus on 
 
 #### 🌐 Web3 Social & Infrastructure
 - [**safe-defi-sight**](https://github.com/Akin-Tunde/safe-defi-sight ) — A **Farcaster Mini-app** providing a comprehensive risk analysis dashboard for DeFi users.
-- 
 - [**twin-marketplace**](https://github.com/Akin-Tunde/twin-marketplace ) — A modern marketplace architecture for digital assets.
 
 ---
